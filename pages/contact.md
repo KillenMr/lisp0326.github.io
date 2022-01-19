@@ -18,8 +18,9 @@ header:
     <p>
       <b>phone:</b> 027-87281676<br>
       <b>email:</b> <a href="mailto:yibin@mail.hzau.edu.cn">yibin@mail.hzau.edu.cn</a><br>
-      <b>address:</b> National Key Laboratory of Crops Genetic Improvement<br>
       <b>office:</b> Room A307<br>
+      <b>address:</b> National Key Laboratory of Crops Genetic Improvement, Huazhong Agricultural university, Wuhan, China<br>
+      
     </p>
     </div>
 </div>

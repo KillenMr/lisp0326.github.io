@@ -34,7 +34,7 @@ header:
 
   team="Hong An, Xinshuai Qi, Michelle L Gaynor, Yue Hao, Sarah C Gebken, Makenzie E Mabry, Alex C McAlvay, Graham R Teakle, Gavin C Conant, Michael S Barker, Tingdong Fu, Bin Yi, J Chris Pires"
 
-  image="/assets/img/research/anhong_nature2019.png"
+  image="/assets/img/research/anhong-nature2019.png"
 
   citation="Hong an et al. Nat Commun. 2019 Jun 28;10(1):2878."
 

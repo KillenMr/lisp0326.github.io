@@ -17,11 +17,11 @@ slogan: ''
 description: 'This is the website for the academic lab of Bin Yi.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on the theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p class="main-footer__notice">&copy; Bin Yi lab</p>'
 
 # Main author of the website
 # See > authors.yml
-author: Obi Griffith, Malachi Griffith
+author: lisp
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -115,7 +115,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Griffith     # Default author for pages
+      author: lisp     # Default author for pages
   -
     scope:
       path: ''
@@ -124,7 +124,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Griffith     # Default author for posts
+      author: lisp     # Default author for posts
 
 
 
