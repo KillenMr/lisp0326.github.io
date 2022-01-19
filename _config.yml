@@ -25,7 +25,7 @@ author: Obi Griffith, Malachi Griffith
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://lisp0326.github.io'
+url: 'http://101.43.133.44:8080/_site'
 #baseurl: '/vicc', this breaks github pages for some reason, investigate, ZL
 
 
@@ -39,7 +39,7 @@ url: 'https://lisp0326.github.io'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://lisp0326.github.io/images/'
+urlimg: 'http://101.43.133.44:8080/_site/images/'
 
 
 # Logo size is 600x80 pixels
